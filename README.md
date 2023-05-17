@@ -1,12 +1,12 @@
 # Notebooks-sentence-transformers
 
-Notebooks de relacionados a modelos sentence-transformer.
+Este repositório é contém notebooks relacionados a modelos sentence-transformer.
 
 O modelo utilizado é o [sentence-transformer-ult5-pt-small](https://huggingface.co/tgsc/sentence-transformer-ult5-pt-small).
 
 | Notebook | Colab |
 |-----------------------------------|---------------|
-| Busca-semântica-sentence-transformer.ipynb | [![Open In Colab](https://colab.research.google.com/github/thacio/Notebooks-sentence-transformers/blob/main/Busca-sem%C3%A2ntica-sentence-transformer.ipynb) |
+| Busca-semântica-sentence-transformer.ipynb | [![Open In Colab](https://colab.research.google.com/github/thacio/Notebooks-sentence-transformers/blob/main/Busca-sem%C3%A2ntica-sentence-transformer.ipynb)] |
 
 
 ## Busca semântica
