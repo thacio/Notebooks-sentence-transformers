@@ -1,6 +1,6 @@
 # Notebooks-sentence-transformers
 
-Este repositório é contém notebooks relacionados a modelos sentence-transformer.
+Este repositório contém notebooks relacionados a modelos sentence-transformer.
 
 O modelo utilizado é o [sentence-transformer-ult5-pt-small](https://huggingface.co/tgsc/sentence-transformer-ult5-pt-small).
 
