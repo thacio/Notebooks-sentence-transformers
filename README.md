@@ -6,7 +6,7 @@ O modelo utilizado é o [sentence-transformer-ult5-pt-small](https://huggingface
 
 | Notebook | Colab |
 |-----------------------------------|---------------|
-| Busca-semântica-sentence-transformer.ipynb | [![Open In Colab](https://colab.research.google.com/github/thacio/Notebooks-sentence-transformers/blob/main/Busca-sem%C3%A2ntica-sentence-transformer.ipynb)] |
+| Busca-semântica-sentence-transformer.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thacio/Notebooks-sentence-transformers/blob/main/Busca-sem%C3%A2ntica-sentence-transformer.ipynb) |
 
 
 ## Busca semântica
